@@ -1,5 +1,5 @@
 
-## 1. Non trivial Permutations progam i made to test a leetcode solution
+
 ### First clone the repo: 
 ```
 git clone https://github.com/AashrayBenjamin/justrust.git
